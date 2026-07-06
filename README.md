@@ -1,8 +1,8 @@
-Todo App
+# TODO-APP
 
 A simple and responsive Todo application built with HTML, CSS, and JavaScript.
 
-Features
+### Features
 
 - Add new tasks
 - Mark tasks as completed
@@ -11,22 +11,22 @@ Features
 - Responsive design
 - Lightweight and fast
 
-Tech Stack
+### Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
 - Browser Local Storage
 
-Screenshots
+### Screenshots
 
-Add screenshots here once available.
+ummm..
 
-Getting Started
+## Getting Started
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+git clone https://github.com/who-aksh/todo-app.git
 
 Open the project
 
@@ -34,25 +34,25 @@ Simply open "index.html" in your browser.
 
 No installation or dependencies required.
 
-Project Structure
+### Project Structure
 
-todo-app/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+todo-app/  
+├── index.html  
+├── style.css  
+├── script.js  
+└── README.md  
 
-Future Improvements
+~~Future Improvements~~ **added**
 
-- Task priorities
-- Due dates
-- Search and filtering
-- Dark mode
-- Task categories
-- Statistics dashboard
-- Drag-and-drop task management
+~~- Task priorities~~  
+~~- Due dates~~  
+~~- Search and filtering~~  
+~~- Dark mode~~  
+~~- Task categories~~  
+~~- Statistics dashboard~~  
+~~- Drag-and-drop task management~~  
 
-Learning Goals
+## Learning Goals
 
 This project was built to practice:
 
